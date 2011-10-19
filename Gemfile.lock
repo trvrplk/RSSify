@@ -1,0 +1,9 @@
+GEM
+  specs:
+    shoulda-context (1.0.0.beta1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  shoulda-context
